@@ -82,6 +82,8 @@
 (require 'init-git)
 (require 'init-github)
 
+(require 'init-evil)
+
 (require 'init-projectile)
 
 (require 'init-compile)
